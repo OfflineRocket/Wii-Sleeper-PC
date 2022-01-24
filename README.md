@@ -4,6 +4,8 @@ Using an intel NUC, a complete x64 computer is fit within a Wii chassis
 ## Support Me!
 [See the stuff I build and support me here!](https://linktr.ee/Lego_Rocket)
 
+![Photo1](/Photos/20201204_182044.jpg)
+
 ## Why
 Why did I build this?
 
@@ -33,6 +35,8 @@ The Windows partition is much smaller. It basically is the minimum needed for Wi
 * HDD Activity LED (Disk Drive border)
 * USB replacing memory ports
 * Audio in memory ports
+
+![Photo2](/Photos/20200816_160315.jpg)
 
 ## License Information:
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
