@@ -5,8 +5,9 @@ Using an intel NUC, a complete x64 computer is fit within a Wii chassis
 [See the stuff I build and support me here!](https://linktr.ee/Lego_Rocket)
 
 ![Photo1](/Photos/20201204_182044.jpg)
+The Wii NUC, with a USB drive, headphones, and a modded Gamecube controller attached.
 
-## Why
+## Why?
 Why did I build this?
 
 I bought a NUC for building a [Cyberdeck](https://cyberdeck.cafe/) device. It was initially going to be a module for the [Clavier](https://github.com/LegoRocket/Clavier-Keyboard), however I lost a bit of interest in the project, I decided to shift the vision. Around the same time, I picked up a $5 Wii at a local thrift store, which I immediately bought.
@@ -37,6 +38,8 @@ The Windows partition is much smaller. It basically is the minimum needed for Wi
 * Audio in memory ports
 
 ![Photo2](/Photos/20200816_160315.jpg)
+![Photo3](/Photos/20201204_182433.jpg)
+
 
 ## License Information:
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
