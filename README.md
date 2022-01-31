@@ -5,7 +5,7 @@ Using an intel NUC, a complete x64 computer is fit within a Wii chassis
 [See the stuff I build and support me here!](https://linktr.ee/Lego_Rocket)
 
 ![Photo1](/Photos/20201204_182044.jpg)
-The Wii NUC, with a USB drive, headphones, and a modded Gamecube controller attached.
+The Wii NUC, with a USB drive, headphones, and a [modded Gamecube controller attached.](https://github.com/LegoRocket/Gamecube-Controller-LED)
 
 ## Why?
 Why did I build this?
