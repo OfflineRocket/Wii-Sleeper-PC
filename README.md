@@ -9,6 +9,8 @@ The Wii NUC, with a USB drive, headphones, and a [modded Gamecube controller att
 
 ## [Demo Video Here!](https://youtu.be/j2RPuSAbVrM)
 
+## [Teardown Video Here!](https://youtu.be/eiYmvixxPhI)
+
 ## Why?
 Why did I build this?
 
